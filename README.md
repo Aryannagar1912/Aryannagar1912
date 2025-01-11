@@ -22,32 +22,8 @@ high-quality code._
 
 ---
 
-## 💬 **Let's Connect**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<p align="center">
   
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) -->
-[<img src="https://drive.google.com/file/d/1cQN9Rem7r2jCMy7psQrKVvfu6v-QApX9/view?usp=drive_link" height="30" title="Connect with me" />](https://www.linkedin.com/in/aryan-nagar19/)
-[<img src="https://img.shields.io/badge/-contact.akashdeep023@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Message me" />](mailto:contact.akashdeep023@gmail.com)
-[<img src="https://img.shields.io/badge/-@akashdeep023__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/akashdeep023_/)
-[<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/akashdeep023)
 
-</p>
 
 ## 👨‍💻 **Languages and Tools**
 
@@ -77,7 +53,7 @@ high-quality code._
 | `S.No` | `Major Project`   |                        `Live Link`                        |                                 `GitHub Link`                                 |                                                                               `Linked Post`                                                                                |
 | :----: | :---------------- | :-------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  `01`  | `Online Store Development for Vijay Mobile Shop`        |    [`Link`](https://vijay-mobile-shop.vercel.app/)    |           [`Repository`](https://github.com/Aryannagar1912/VijayMobileShop)            |     [`Post`](https://www.linkedin.com/)      |
-|  `03`  | `Airbnb Project`  | [`Link`](https://airbnb-project-major-jack.onrender.com/) |        [`Repository`](https://github.com/akashdeep023/Airbnb_Project)         | [`Post`](https://www.linkedin.com/posts/akashdeep023_airbnb-apnacollege-fullstackdevelopment-activity-7153710900992970752-Z9_G?utm_source=share&utm_medium=member_desktop) |
+|  `03`  | `Airbnb Project`  | [`Link`](https://major-project-5zel.onrender.com/) |        [`Repository`](https://github.com/Aryannagar1912/Airbnb-Project)         | [`Post`](https://youtu.be/ImAPELztIQM?si=i7QcmEZKCCgboDF3) |
 |  `04`  | `Food Plaza`      |     [`Link`](https://food-plaza-project.vercel.app/)      |          [`Repository`](https://github.com/akashdeep023/Food_Plaza)           |    [`Post`](https://www.linkedin.com/posts/akashdeep023_foodplaza-namastedev-namastereact-activity-7168890857792761856-qC0D?utm_source=share&utm_medium=member_desktop)    |
 |  `05`  | `Netflix Gpt`     |      [`Link`](https://netflix-gpt-jack.vercel.app/)       |          [`Repository`](https://github.com/akashdeep023/Netflix_Gpt)          |          [`Post`](https://www.linkedin.com/posts/akashdeep023_netflixgpt-openai-gpt-activity-7172444217913360385-pPZ4?utm_source=share&utm_medium=member_desktop)          |
 |  `06`  | `Cors Handler`    |        [`Link`](https://cors-handlers.vercel.app/)        |  [`Repository`](https://github.com/akashdeep023/Cors_Handler) <sup>`P`</sup>  |     [`Post`](https://www.linkedin.com/posts/akashdeep023_webdevelopment-nodejs-expressjs-activity-7184854679493783553-dFXF?utm_source=share&utm_medium=member_desktop)     |
@@ -85,21 +61,25 @@ high-quality code._
 |  `08`  | `Drioh Project`   |            [`Link`](https://drioh.vercel.app/)            | [`Repository`](https://github.com/akashdeep023/Drioh_Project) <sup>`P`</sup>  |                                                                                 `No Post`                                                                                  |
 |  `09`  | `Quable Food`     |         [`Link`](https://quablefoods.vercel.app/)         | [`Repository`](https://github.com/akashdeep023/Quable_Project) <sup>`P`</sup> |                                                                                 `No Post`                                                                                  |
 
-| `S.No` | `Mini Major Project` |                       `Live Link`                        |                          `GitHub Link`                          |
-| :----: | :------------------- | :------------------------------------------------------: | :-------------------------------------------------------------: |
-|  `01`  | `Nasa Web`           |      [`Link`](https://nasa-web-project.vercel.app/)      |    [`Repository`](https://github.com/akashdeep023/Nasa_Web)     |
-|  `02`  | `Life Track`         |     [`Link`](https://todo-mern-project.vercel.app/)      |    [`Repository`](https://github.com/akashdeep023/Todo_Mern)    |
-|  `03`  | `Weather Widget`     | [`Link`](https://weather-widget-react-jack.netlify.app/) | [`Repository`](https://github.com/akashdeep023/Weather_Widget)  |
-|  `04`  | `SimonSay Game Js`   | [`Link`](https://akashdeep023.github.io/SimonSay_Game/)  |  [`Repository`](https://github.com/akashdeep023/SimonSay_Game)  |
-|  `05`  | `Amazon Clone`       |  [`Link`](https://akashdeep023.github.io/Amazon-Clone/)  |  [`Repository`](https://github.com/akashdeep023/Amazon-Clone)   |
-|  `06`  | `Spotify Clone`      | [`Link`](https://akashdeep023.github.io/Spotify-Clone/)  | [`Repository`](https://github.com/akashdeep023/Spotify-Clone).  |
-|  `07`  | `WhatApp Chat`       |        [`Link`](https://github.com/akashdeep023/)        |               [`Repository`]() <sup>`Wait`</sup>                |
-|  `08`  | `ToDo Game Redux`    |   [`Link`](https://todo-list-redux-jack.netlify.app/)    | [`Repository`](https://github.com/akashdeep023/ToDo-List-Redux) |
-|  `09`  | `ToDo Game React`    |   [`Link`](https://task-list-react-jack.netlify.app/)    | [`Repository`](https://github.com/akashdeep023/ToDo-List-React) |
-|  `10`  | `ToDo Game Js`       |   [`Link`](https://akashdeep023.github.io/ToDo_Game/)    |  [`Repository`](https://github.com/akashdeep023/ToDo_Game_Js)   |
-|  `11`  | `Lottery Game`       |  [`Link`](https://lottery-game-react-jack.netlify.app/)  |  [`Repository`](https://github.com/akashdeep023/Lottery-Game)   |
 
 ---
+
+## 💬 **Let's Connect**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-nagar19/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Aryannagar1912" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/u/aryannagar122/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="mailto:aryannagar193@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <a href="https://github.com/Aryannagar1912" align="center">
   <img src="https://imgur.com/rilHVxA.png"/>
