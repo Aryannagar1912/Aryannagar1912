@@ -6,8 +6,8 @@
 <p align="center">
     <b style="color: blue;  ">Visitor count</b>
     <br>
-    <a style="" href="https://github.com/akashdeep023">
-        <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
+    <a style="" href="https://github.com/Aryannagar1912">
+        <img src="https://profile-counter.glitch.me/Aryannagar1912/count.svg" />
     </a>
 </p>
 
