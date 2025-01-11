@@ -34,20 +34,6 @@ high-quality code._
 
 </p>
 
-## 💻 **Some Stats**
-
-<div align="left" style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
-    <a style="" href="https://github.com/akashdeep023">
-        <img height=350 src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
-    </a>
-    <a style="" href="https://github.com/akashdeep023">
-        <img height=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&hide_border=true&layout=donut-vertical"/>
-    </a>
-</div>
-<a style="" href="https://github.com/akashdeep023">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashdeep023&theme=tokyonight"/>
-</a>
-
 ## 👨‍💻 **Languages and Tools**
 
 <a href="https://github.com/akashdeep023" align="center">     
@@ -72,13 +58,6 @@ high-quality code._
     <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/c++%20-%2314054C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
 </a>
 
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-
-[![](https://github-profile-trophy.vercel.app/?username=akashdeep023&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/akashdeep023)
-
-</p>
 
 ## 🧑‍🏫 **All Projects**
 
