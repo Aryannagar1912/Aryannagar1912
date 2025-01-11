@@ -1,5 +1,3 @@
-# Aryan Nagar | Full Stack Developer 👨‍💻
-
 <p align="center">
     <b style="color: blue;  ">Visitor count</b>
     <br>
@@ -7,6 +5,10 @@
         <img src="https://profile-counter.glitch.me/Aryannagar1912/count.svg" />
     </a>
 </p>
+
+# Aryan Nagar | Full Stack Developer 👨‍💻
+
+
 
 ---
 
