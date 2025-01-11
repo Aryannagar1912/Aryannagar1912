@@ -13,7 +13,12 @@
 
 ## 👀 **Professional Summary**
 
-_Passionate web development enthusiast currently pursuing a Master of Computer Applications (MCA). Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills._
+_Enthusiastic and driven Full Stack Developer with hands-on experience in building dynamic web applications
+using the MERN stack. Developed multiple full-stack projects and possess strong knowledge of Data
+Structures and Algorithms (DSA) in Java. Passionate about coding, problem-solving, and continuous
+learning. Actively seeking an internship or entry-level role to apply both full-stack development and DSA
+skills in real-world projects. Known for a strong work ethic, adaptability, and a commitment to delivering
+high-quality code._
 
 ---
 
