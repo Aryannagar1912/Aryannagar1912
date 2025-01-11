@@ -1,8 +1,6 @@
 ## Hi there 👋
 <a style="" href="https://aryan-nagar-portfolio.vercel.app/">
   
-  ![Profile_](https://github.com/user-attachments/assets/79f22b3e-bf89-4d3a-bde9-3e778466a69b)
-  
 </a>
 
 <p align="center">
