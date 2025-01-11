@@ -1,7 +1,4 @@
-## Hi there 👋
-<a style="" href="https://aryan-nagar-portfolio.vercel.app/">
-  
-</a>
+# Aryan Nagar | Full Stack Developer 👨‍💻
 
 <p align="center">
     <b style="color: blue;  ">Visitor count</b>
@@ -11,16 +8,18 @@
     </a>
 </p>
 
-## 👀 **Professional Summary**
+---
 
-_Enthusiastic and driven Full Stack Developer with hands-on experience in building dynamic web applications
-using the MERN stack. Developed multiple full-stack projects and possess strong knowledge of Data
-Structures and Algorithms (DSA) in Java. Passionate about coding, problem-solving, and continuous
-learning. Actively seeking an internship or entry-level role to apply both full-stack development and DSA
-skills in real-world projects. Known for a strong work ethic, adaptability, and a commitment to delivering
-high-quality code._
+## About Me
+
+Hey there! 👋 I'm **Aryan Nagar**, an enthusiastic and creative **Full Stack Developer** passionate about coding, problem-solving, and crafting high-quality web applications. With a strong foundation in **MERN stack** development and a good grasp of **Data Structures and Algorithms**, I love building projects that make a real-world impact.
+
+- 🌟 **Passionate About:** Writing clean, maintainable code and continuously learning new technologies.
+- 💻 **Seeking:** Internship or entry-level opportunities to apply and grow my skills in full-stack development.
+- 📍 **Location:** Mandideep, Madhya Pradesh, India.
 
 ---
+
 
   
 
@@ -47,26 +46,28 @@ high-quality code._
     <img alt="Badge" style="float: left; margin-right: 10px;" src="http://img.shields.io/badge/-java-yellow?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 
+---
 
 ## 🧑‍🏫 **All Projects**
 
-| `S.No` | `Major Project`   |                        `Live Link`                        |                                 `GitHub Link`                                 |                                                                               `Linked Post`                                                                                |
+| `S.No` | `Project Name`   |                        `Live Link`                        |                                 `GitHub Link`                                 |                                                                               `Linked Post`                                                                                |
 | :----: | :---------------- | :-------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  `01`  | `Online Store Development for Vijay Mobile Shop`        |    [`Link`](https://vijay-mobile-shop.vercel.app/)    |           [`Repository`](https://github.com/Aryannagar1912/VijayMobileShop)            |     [`Post`](https://www.linkedin.com/)      |
-|  `03`  | `Airbnb Project`  | [`Link`](https://major-project-5zel.onrender.com/) |        [`Repository`](https://github.com/Aryannagar1912/Airbnb-Project)         | [`Post`](https://youtu.be/ImAPELztIQM?si=i7QcmEZKCCgboDF3) |
-|  `04`  | `Food Plaza`      |     [`Link`](https://food-plaza-project.vercel.app/)      |          [`Repository`](https://github.com/akashdeep023/Food_Plaza)           |    [`Post`](https://www.linkedin.com/posts/akashdeep023_foodplaza-namastedev-namastereact-activity-7168890857792761856-qC0D?utm_source=share&utm_medium=member_desktop)    |
-|  `05`  | `Netflix Gpt`     |      [`Link`](https://netflix-gpt-jack.vercel.app/)       |          [`Repository`](https://github.com/akashdeep023/Netflix_Gpt)          |          [`Post`](https://www.linkedin.com/posts/akashdeep023_netflixgpt-openai-gpt-activity-7172444217913360385-pPZ4?utm_source=share&utm_medium=member_desktop)          |
-|  `06`  | `Cors Handler`    |        [`Link`](https://cors-handlers.vercel.app/)        |  [`Repository`](https://github.com/akashdeep023/Cors_Handler) <sup>`P`</sup>  |     [`Post`](https://www.linkedin.com/posts/akashdeep023_webdevelopment-nodejs-expressjs-activity-7184854679493783553-dFXF?utm_source=share&utm_medium=member_desktop)     |
-|  `07`  | `Code With`       |          [`Link`](https://code-with.vercel.app/)          |   [`Repository`](https://github.com/akashdeep023/Code_With) <sup>`P`</sup>    |                                                                                 `No Post`                                                                                  |
-|  `08`  | `Drioh Project`   |            [`Link`](https://drioh.vercel.app/)            | [`Repository`](https://github.com/akashdeep023/Drioh_Project) <sup>`P`</sup>  |                                                                                 `No Post`                                                                                  |
-|  `09`  | `Quable Food`     |         [`Link`](https://quablefoods.vercel.app/)         | [`Repository`](https://github.com/akashdeep023/Quable_Project) <sup>`P`</sup> |                                                                                 `No Post`                                                                                  |
+|  `02`  | `Airbnb Project`  | [`Link`](https://major-project-5zel.onrender.com/) |        [`Repository`](https://github.com/Aryannagar1912/Airbnb-Project)         | [`Post`](https://youtu.be/ImAPELztIQM?si=i7QcmEZKCCgboDF3) |
+|  `03`  | `Myntra-App`      |     [`Link`](https://github.com/Aryannagar1912/Myntra-App)      |          [`Repository`](https://github.com/Aryannagar1912/Myntra-App)           |    [`Post`](https://github.com/Aryannagar1912/Myntra-App/new/main?filename=README.md)    |
+|  `04`  | `Portfolio`     |      [`Link`](aryan-nagar-portfolio.vercel.app)       |          [`Repository`](https://github.com/Aryannagar1912/AryanNagarPortfolio)          |          [`Post`](https://github.com/Aryannagar1912/AryanNagarPortfolio/blob/main/README.md)          |
+|  `05`  | `Weather-App`    |        [`Link`](https://github.com/Aryannagar1912/Weather-App)        |  [`Repository`](https://github.com/Aryannagar1912/Weather-App) <sup></sup>  |     [`Post`](https://github.com/Aryannagar1912/Weather-App/blob/master/README.md)     |
+|  `06`  | `React-Post-Manager`       |          [`Link`](https://github.com/Aryannagar1912/React-Post-Manager)          |   [`Repository`](https://github.com/Aryannagar1912/React-Post-Manager) <sup></sup>    |                                                                                 `No Post`                                                                                  |
+|  `07`  | `cricket_scoring`   |            [`Link`](https://github.com/Aryannagar1912/cricket_scoring)            | [`Repository`](https://github.com/Aryannagar1912/cricket_scoring) <sup></sup>  |                                                                                 `No Post`                                                                                  |
+|  `08`  | `Simon-Game`     |         [`Link`](https://github.com/Aryannagar1912/Simon-Game)         | [`Repository`](https://github.com/Aryannagar1912/Simon-Game) <sup></sup> |                                                                                 `No Post`                                                                                  |
+|  `09`  | `To-do-list`     |         [`Link`](https://github.com/Aryannagar1912/to-do-List)         | [`Repository`](https://github.com/Aryannagar1912/to-do-List) <sup></sup> |                                                                                 `No Post`                                                                                  |
 
 
 ---
 
 ## 💬 **Let's Connect**
 
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/aryan-nagar19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -80,9 +81,5 @@ high-quality code._
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-<a href="https://github.com/Aryannagar1912" align="center">
-  <img src="https://imgur.com/rilHVxA.png"/>
-</a>
 
 ---
